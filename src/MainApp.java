@@ -1,11 +1,5 @@
-import computer.Computer;
-import computer.Laptop;
-import computer.PC;
 import model.Bug;
 import model.BugReporter;
-import model.User;
-import utils.StringUtils;
-import utils.WeekUtils;
 
 import java.util.*;
 
