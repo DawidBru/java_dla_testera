@@ -56,6 +56,7 @@ public class BugReporter {
         return email;
     }
 
+
     public void setEmail(String email) {
             if(!email.contains("@")){
                 System.out.println("Incorrect email format");
